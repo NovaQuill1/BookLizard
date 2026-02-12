@@ -28,6 +28,7 @@ To add books:
 ESC — Open menu
 TAB — Switch between Book Selector and Theme Selector
 Number Keys — Select book or theme
+
 ---- ⚠️ Security Notice ⚠️ ----
 Because Book Lizard is not distributed through the App Store,
 On first launch you may see:
