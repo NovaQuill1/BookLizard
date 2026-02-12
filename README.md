@@ -43,6 +43,7 @@ To open:
 1. Right-click BookLizard.app
 2. Select Open
 3. Click Open again
+
 You only need to do this once.
 
 ---- ⚠️ OS Compatability ⚠️ ----
