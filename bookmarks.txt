@@ -1,4 +1,0 @@
-Put your page and book here and put this file in the books folder:
-BOOK1: PAGE
-BOOK2: PAGE
-... keep adding file names and page numbers to keep your place!
