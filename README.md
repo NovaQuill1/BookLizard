@@ -1,6 +1,6 @@
 ---- Book Lizard 🦎📚 ----
 
-A lightweight, distraction-free desktop e-reader built with Python and Tkinter. Book Lizard is designed to be simple, portable, and easy to share. Drop in your .txt or .rtf files and start reading instantly.
+A lightweight, distraction-free desktop e-reader built with Python and Tkinter. Book Lizard is designed to be simple, portable, and easy to share. Drop in your .txt files and start reading instantly.
 
 ---- Features ----
 
@@ -18,11 +18,11 @@ Download the .zip, decompress it, and move BookLizard.app to your Applications f
 
 On its first launch, Book Lizard creates a folder at:
 
-~/Documents/BookLizard/books
+~/Desktop/BookLizard/books
 
 To add books:
 1. Drop .txt or .rtf files into that folder
-2. Reopen BookLizard
+2. Reopen Book Lizard
 3. Select your book from the menu
 
 ---- Controls ----
@@ -39,7 +39,7 @@ Number Keys — Select book or theme
 
 Because Book Lizard is not distributed through the App Store, on first launch you may see:
 
-“BookLizard can’t be opened because it is from an unidentified developer.”
+“BookLizard.app can’t be opened because it is from an unidentified developer.”
 
 To open:
 
