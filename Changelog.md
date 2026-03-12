@@ -10,8 +10,12 @@ A change in C represents minor changes or bug fixes. This could be a faster laun
 
 ---- Changelog ----
 
-1.0.0: Original Book Lizard
+1.0.0: Original Book Lizard.
 
 1.0.1: Removed forced text wrapping.
 
-1.0.2: Changed header to match actual version formatting
+1.0.2: Changed header to match actual version formatting.
+
+----= EARLY ACCESS ON PATREON: patreon.com/booklizard =----
+
+1.1.3: Fixed formatting issues, added page saving.
