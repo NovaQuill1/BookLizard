@@ -56,7 +56,7 @@ such as Linux or Microsoft.
 
 ---- Built With ----
 
-Python 3
+Python
 
 Tkinter
 
