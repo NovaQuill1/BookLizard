@@ -124,9 +124,3 @@ To extend the app:
 - Add new screen presets in `config.py`
 - Modify parsing rules in `pagination.py`
 - Adjust UI behavior in `ui.py`
-
-Run the test suite from the `booklizard` package directory:
-
-```bash
-python3 -m unittest discover -s booklizard/tests
-```
